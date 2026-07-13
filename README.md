@@ -1,4 +1,4 @@
-<img src="Cover Photo.jpg">
+<img src="image/Cover Photo.jpg">
 <h1 align="center">Hi 👋, I'm Babul Hossain</h1>
 <h3 align="center">Full-Stack Web Developer dedicated to building fast, scalable, and user-centric digital experiences. Creative Web Developer with a passion for bringing ideas to</h3>
 
