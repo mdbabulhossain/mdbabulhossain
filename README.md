@@ -1,5 +1,5 @@
 <img src="image/Cover Photo.jpg">
-<h1 align="center">Hi 👋, I'm Babul Hossain</h1>
+<h1 align="center"> I'm Babul Hossain</h1>
 <h3 align="center">Full-Stack Web Developer dedicated to building fast, scalable, and user-centric digital experiences. Creative Web Developer with a passion for bringing ideas to</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdbabulhossain&label=Profile%20views&color=0e75b6&style=flat" alt="mdbabulhossain" /> </p>
